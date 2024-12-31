@@ -1,0 +1,6 @@
+# 【暑假特价】仿EOS生态社区 区块链理财系统 完全开源 全网首家 可二开纯开源 包安装搭建
+
+前端：http://example.com/<br>18888888888  123456<br>后端http://example.com/admin<br>admin  123456<br>免费注册送：5个XRP<br>example.com<br>能提现到各个交易大盘或钱包<br>投票数量：100~3000个XRP<br>每天分红：example.com%~3%个XRP<br>投票收益：<br>投票100～1000个XRP<br>获3倍（30～300）个XRP。<br>投票1001～2024个XRP<br>获4倍（400～800）个XRP。<br>投票2001～3000个XRP<br>获5倍（1000～1500）个XRP。<br>分享收益：<br>① 推荐奖：<br>自投票XRP个数 推荐奖<br>100~1000         6%<br>1001~2024        8%<br>2001~3000        10%<br>烧伤制：<br>依据投票数少的计算推荐奖<br>② 管理奖：<br>直推5人以上，天天享受<br>所有直推人每天的收益（静+动）<br>首席节点：20%<br>联盟节点：25%<br>节点：30%<br>③ 领导奖（级差制）<br>直推人数 团队人数 提成<br>10    150   1%<br>15    300   2%<br>20    500   3%<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/NkQ2L" style="color: red;">https://mega-file.org/NkQ2L</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
